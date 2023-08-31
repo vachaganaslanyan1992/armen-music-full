@@ -1,0 +1,16 @@
+.idea/
+.phpintel/
+*.sublime-project
+.DS_Store
+
+node_modules/
+/storage/logs/*
+public/phplog
+/Modules/*/Assets/
+/Themes/*/assets/
+/tags
+/.meta
+mix-manifest.json
+npm-debug.log
+yarn-error.log
+*.map
